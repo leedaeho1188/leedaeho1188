@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet me
 <p>
-  <a href="https://leedaeho1188.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=Blogger&logoColor=white"/></a>
+  <a href="https://leedaeho1188.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
   <a href="mailto:leedaeho1188@gmail.com" target="_blank"><img src="https://img.shields.io/badge/leedaeho1188@gmail.com-2D8C3C?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
