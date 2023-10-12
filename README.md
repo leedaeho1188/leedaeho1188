@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  👋 Hi there! I'm a <br>Frontend Developer</br> with <br>2 years of experience</br>, currently diving deep into web development using <br>Next.js</br> and <br>TypeScript</br>. Passionate about creating intuitive and dynamic user interfaces. Always eager to learn and take on new challenges!
+  👋 Hi there! I'm a <b>Frontend Developer</b> with <b>2 years of experience</b>, currently diving deep into web development using <b>Next.js</b> and <b>TypeScript</b>. Passionate about creating intuitive and dynamic user interfaces. Always eager to learn and take on new challenges!
 </p>
 
 <p>
